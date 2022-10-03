@@ -23,7 +23,7 @@
     },
     "homepage": "https://github.com/codotype/codotype-plugin-starter-kit#readme",
     "dependencies": {
-        "@codotype/core": "0.8.0-canary.18"
+        "@codotype/core": "0.8.0-canary.19"
     },
     "devDependencies": {
         "@codotype/cli": "0.8.0-canary.28",
