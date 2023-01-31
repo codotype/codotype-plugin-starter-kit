@@ -27,6 +27,6 @@
     },
     "devDependencies": {
         "@codotype/cli": "0.8.0-canary.28",
-        "typescript": "^4.8.2"
+        "typescript": "^4.9.5"
     }
 }
